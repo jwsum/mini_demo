@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626792653039",
+    "firebase_url": "https://demoapp-24939.firebaseio.com",
+    "project_id": "demoapp-24939",
+    "storage_bucket": "demoapp-24939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626792653039:android:951d87698822417d1afb1a",
+        "android_client_info": {
+          "package_name": "com.jianwei.mini_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626792653039-f7v62r0lfa9bn3ea0gtnui92mhef5ioq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2A45-evlVLxeKnrN91nQRGtK0R6QES6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626792653039-f7v62r0lfa9bn3ea0gtnui92mhef5ioq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
